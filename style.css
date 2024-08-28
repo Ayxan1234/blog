@@ -1,0 +1,13 @@
+p{
+    display: inline;
+}
+img{
+    float: left;
+}
+.word{
+    text-align: center;
+}
+.print{
+    width: 1500px;
+    height: 500px;
+}
